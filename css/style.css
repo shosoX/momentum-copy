@@ -1,0 +1,88 @@
+body{
+    background: #FF8C68;
+}
+
+#time{
+    position: absolute;
+    width: 342px;
+    height: 97px;
+    left: 469px;
+    top: -16px;
+    margin-top: 10px;
+    margin-bottom: 0;
+
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 149px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+#weather_box{
+    background: rgba(255,255,255,1);
+    width: 307px;
+    height: 195px;
+    border-radius: 10px;
+    margin-top: 130px;
+    margin-left: 50px;
+    color: #FF8C68;
+}
+
+#todayweather{
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    margin-left: 10px;
+}
+
+#geo-info{
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    margin-left: 20px;
+}
+
+#todaymise{
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    margin-left: 20px;
+}
+
+#weather-info{
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 30px;
+}
+
+#misemonji-info{
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 30px;
+}
+
+#openweathermaphref {
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 30px;
+    text-decoration: none;
+    color: #FF8C68;
+    margin-left: 80px;
+}
