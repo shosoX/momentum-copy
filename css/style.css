@@ -84,5 +84,11 @@ body{
     line-height: 30px;
     text-decoration: none;
     color: #FF8C68;
-    margin-left: 80px;
+    margin-left: 150px;
+}
+
+#openexcept {
+    margin: 0;
+    text-decoration: none;
+    color: #FF8C68;
 }
